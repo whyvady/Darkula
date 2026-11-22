@@ -1,0 +1,10 @@
+Package: com.darkula.tweak
+Name: Darkula
+Description: System-wide dark theme for iOS 12
+Maintainer: user
+Author: user
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 0.1.0-16+debug
+Installed-Size: 228
